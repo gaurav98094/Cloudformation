@@ -1,0 +1,18 @@
+invoice: 31243
+date: 2023-01-01
+bill-to:
+  given: Chris
+  family: Kandel
+  address: 
+    lines: |
+      IBRD, Punarbas
+      Kanchanpur Nepal
+    city: Kathmandu
+    state: Karnataka
+  products:
+    - id: 1
+      name: Sky
+    - id: 2
+      name: Surf
+    - id: 3
+      name: Super Hoop
